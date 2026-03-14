@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Animated Developer" />
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Cute Coding Cat" />
     </td>
     <td width="70%" align="center">
       <h1>Hi 👋, I'm Sanam (Sanam469)</h1>
