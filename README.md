@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sanam (Sanam469)</h1>
-<h3 align="center">A 4th-semester developer building real-world products that solve real problems.</h3>
-
-<p align="center">
-  Welcome to my GitHub! I am deeply interested in building practical, impactful solutions through code. Instead of just doing tutorials, my focus is on taking an idea from concept to a functioning product that people actually use.
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sanam469/Sanam469-/main/assets/stars.svg" width="100%" /> 
+<table width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Animated Developer" />
+    </td>
+    <td width="70%" align="center">
+      <h1>Hi 👋, I'm Sanam (Sanam469)</h1>
+      <h3>A 4th-semester developer building real-world products that solve real problems.</h3>
+      <p>
+        Welcome to my GitHub! I am deeply interested in building practical, impactful solutions through code. Instead of just doing tutorials, my focus is on taking an idea from concept to a functioning product that people actually use.
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
