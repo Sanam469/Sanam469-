@@ -20,22 +20,36 @@ Here are my top projects where I built complete solutions for genuine problems:
 
 ---
 
-## 🏗️ Basics & Learning Projects
+## 🌱 Continuous Learning & Foundational Projects
 
-While the products above are my flagships, everyone starts somewhere! Here are my other repositories consisting of foundational learning projects, practicing web development basics, and earlier semester assignments:
+While the products above are my flagships, every developer's journey is built on continuous learning and practice. Here is a curated list of my technical progression, from basic frontend layout to complex backend systems:
 
-*   [**SIH-Project**](https://github.com/Sanam469/SIH-Project) - Earlier iterations and planning for the Smart India Hackathon.
-*   [**Portfolio**](https://github.com/Sanam469/Portfolio) - My personal developer portfolio iterations.
-*   [**Learning-Next.js**](https://github.com/Sanam469/Learning-Next.js) - Practice projects for mastering the Next.js framework.
-*   [**JavaScript-Basics**](https://github.com/Sanam469/JavaScript-Basics) - Core JavaScript algorithmic problem solving and DOM manipulation practice.
-*   [**HTML-CSS-Designs**](https://github.com/Sanam469/HTML-CSS-Designs) - Early frontend design clones and responsive layouts.
-*   [**College-Assignments**](https://github.com/Sanam469/College-Assignments) - Various coursework projects from semesters 1-3.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Backend & Fullstack</h3>
+      <ul>
+        <li><b><a href="https://github.com/Sanam469/ProjectManagement">ProjectManagement</a></b><br>Complex backend DB pipelines manipulating data via MongoDB.</li>
+        <li><b><a href="https://github.com/Sanam469/nextJS">NextJS Auth & Dashboard</a></b><br>Secure authentication flow and a clean dashboard natively integrated with MongoDB.</li>
+        <li><b><a href="https://github.com/Sanam469/NODEJS">NODEJS Core</a></b><br>Foundational backend API development, routing, and server logic.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚛️ Frontend & UI Core</h3>
+      <ul>
+        <li><b><a href="https://github.com/Sanam469/react-a2z">React-A2Z</a></b><br>A collection of high-quality, interactive React projects and component designs.</li>
+        <li><b><a href="https://github.com/Sanam469/extentions-small-project-">Utility Extension</a></b><br>A lightweight, functional browser extension demonstrating web API integration.</li>
+        <li><b><a href="https://github.com/Sanam469/Projects.JS">Vanilla JS</a></b>, <b><a href="https://github.com/Sanam469/Tailwind">Tailwind</a></b>, <b><a href="https://github.com/Sanam469/CSS">CSS</a></b>, & <b><a href="https://github.com/Sanam469/HTML">HTML</a></b><br>The essential building blocks of my responsive web design architecture.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>Click to see more about my learning journey</b></summary>
+<summary><b>Click to dive deeper into my GitHub history</b></summary>
 
-*Check out my full GitHub profile to see my commit history and evolution as a developer!*
-- [View all my practice repositories here](https://github.com/Sanam469?tab=repositories)
+*Check out my full GitHub profile to see my commit history and evolution over the semesters!*
+- [View all my repositories here](https://github.com/Sanam469?tab=repositories)
 
 </details>
 
