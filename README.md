@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milan (Sanam469)</h1>
+<h1 align="center">Hi 👋, I'm Sanam (Sanam469)</h1>
 <h3 align="center">A 4th-semester developer building real-world products that solve real problems.</h3>
 
 <p align="center">
